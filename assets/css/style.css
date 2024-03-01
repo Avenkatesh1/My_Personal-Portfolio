@@ -464,7 +464,7 @@ main {
   border: 1px solid var(--jet);
   border-radius: 12px 12px 0 0;
   box-shadow: var(--shadow-2);
-  z-index: 5;
+  z-index: 6;
 }
 
 .navbar-list {
